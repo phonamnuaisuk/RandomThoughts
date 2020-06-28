@@ -6,7 +6,7 @@
 
 - [DLPytorch](https://github.com/hunkim/PyTorchZeroToAll)
 
-- [DLTensorFlow](https://github.com/hunkim/DeepLearningZeroToAll), [DLTF](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+- [DLTensorFlow](https://github.com/hunkim/DeepLearningZeroToAll), [DLTF](https://github.com/Hvass-Labs/TensorFlow-Tutorials), [TFJS](https://github.com/tensorflow/tfjs)
 
 - [ML](https://github.com/off99555/machine-learning-curriculum)
 

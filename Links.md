@@ -8,6 +8,8 @@
 
 - [DLTensorFlow](https://github.com/hunkim/DeepLearningZeroToAll), [DLTF](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
+- [ML](https://github.com/off99555/machine-learning-curriculum)
+
 - [Magenta](https://github.com/magenta/magenta)
 
 - [ModelZoo](https://modelzoo.co/), [TFModels](https://github.com/tensorflow/models)

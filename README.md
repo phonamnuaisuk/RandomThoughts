@@ -1,1 +1,3 @@
 # RandomThoughts
+
+[Links]()

@@ -1,6 +1,6 @@
 # RandomThoughts
 
-[Links](https://github.com/phonamnuaisuk/RandomThoughts/blob/master/Links)
+[Links](https://github.com/phonamnuaisuk/RandomThoughts/blob/master/Links.md)
 
 - [AIMA](https://github.com/aimacode/aima-python)
 

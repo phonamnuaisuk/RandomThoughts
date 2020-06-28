@@ -16,6 +16,8 @@
 
 - [LIS](https://github.com/wbap/lis)
 
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
 - [ROS](http://wiki.ros.org/)
 
 - [StackGAN](https://github.com/hanzhanggit/StackGAN)

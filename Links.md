@@ -10,4 +10,8 @@
 
 - [LIS](https://github.com/wbap/lis)
 
+- [StackGAN](https://github.com/hanzhanggit/StackGAN)
+
+- [VideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+
 - [WaveNet](https://github.com/ibab/tensorflow-wavenet)

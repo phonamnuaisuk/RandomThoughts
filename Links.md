@@ -8,7 +8,13 @@
 
 - [DLTensorFlow](https://github.com/hunkim/DeepLearningZeroToAll), [DLTF](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
+- [Magenta](https://github.com/magenta/magenta)
+
+- [ModelZoo](https://modelzoo.co/), [TFModels](https://github.com/tensorflow/models)
+
 - [LIS](https://github.com/wbap/lis)
+
+- [ROS](http://wiki.ros.org/)
 
 - [StackGAN](https://github.com/hanzhanggit/StackGAN)
 

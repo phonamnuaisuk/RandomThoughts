@@ -1,4 +1,4 @@
-# RandomThoughts
+# RandomTopics
 
 - [AIMA](https://github.com/aimacode/aima-python)
 

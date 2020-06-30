@@ -8,6 +8,8 @@
 
 - [DLTensorFlow](https://github.com/hunkim/DeepLearningZeroToAll), [DLTF](https://github.com/Hvass-Labs/TensorFlow-Tutorials), [TFJS](https://github.com/tensorflow/tfjs)
 
+- [Keras](https://faroit.com/keras-docs/2.0.2/getting-started/sequential-model-guide/)
+
 - [ML](https://github.com/off99555/machine-learning-curriculum)
 
 - [Magenta](https://github.com/magenta/magenta)

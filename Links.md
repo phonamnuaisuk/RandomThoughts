@@ -14,6 +14,8 @@
 
 - [ML](https://github.com/off99555/machine-learning-curriculum)
 
+- [MLPERF](https://mlperf.org/)
+
 - [Magenta](https://github.com/magenta/magenta)
 
 - [ModelZoo](https://modelzoo.co/), [TFModels](https://github.com/tensorflow/models)

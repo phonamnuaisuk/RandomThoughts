@@ -2,6 +2,8 @@
 
 - [AIMA](https://github.com/aimacode/aima-python)
 
+- [BERT]()
+
 - [Detectron2](https://github.com/facebookresearch/detectron2)
 
 - [DLPytorch](https://github.com/hunkim/PyTorchZeroToAll)
@@ -15,6 +17,8 @@
 - [Magenta](https://github.com/magenta/magenta)
 
 - [ModelZoo](https://modelzoo.co/), [TFModels](https://github.com/tensorflow/models)
+
+- [NEMO](https://github.com/NVIDIA/NeMo)
 
 - [LIS](https://github.com/wbap/lis)
 

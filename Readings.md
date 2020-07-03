@@ -1,0 +1,2 @@
+- [DeepLearning](http://www.deeplearningbook.org)
+- [RL](http://incompleteideas.net/book/bookdraft2017nov5.pdf)

@@ -10,6 +10,8 @@
 
 - [DLTensorFlow](https://github.com/hunkim/DeepLearningZeroToAll), [DLTF](https://github.com/Hvass-Labs/TensorFlow-Tutorials), [TFJS](https://github.com/tensorflow/tfjs)
 
+- [GraphNet](https://github.com/deepmind/graph_nets), [DeepGraph](https://github.com/dmlc/dgl), [GeometricPytorch](https://github.com/rusty1s/pytorch_geometric)
+
 - [Keras1](https://keras.io/about/), [Keras2](https://faroit.com/keras-docs/2.0.2/getting-started/sequential-model-guide/)
 
 - [ML](https://github.com/off99555/machine-learning-curriculum)

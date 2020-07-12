@@ -24,11 +24,13 @@
 
 - [NEMO](https://github.com/NVIDIA/NeMo)
 
+- [PyTorchHub](https://pytorch.org/hub/research-models)
+
 - [LIS](https://github.com/wbap/lis)
 
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-- [ROS](http://wiki.ros.org/) [UnityRobot](https://github.com/Unity-Technologies/articulations-robot-demo)
+- [ROS](http://wiki.ros.org/), [UnityRobot](https://github.com/Unity-Technologies/articulations-robot-demo)
 
 - [StackGAN](https://github.com/hanzhanggit/StackGAN)
 

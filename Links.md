@@ -36,4 +36,4 @@
 
 - [WaveNet](https://github.com/ibab/tensorflow-wavenet)
 
-- [PapersWithCodes] (https://paperswithcode.com/)
+- [PapersWithCodes](https://paperswithcode.com/)

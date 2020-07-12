@@ -24,7 +24,7 @@
 
 - [NEMO](https://github.com/NVIDIA/NeMo)
 
-- [PyTorchHub](https://pytorch.org/hub/research-models)
+- [PyTorchHub](https://pytorch.org/hub/research-models), [PyTorchGANzoo](https://github.com/facebookresearch/pytorch_GAN_zoo)
 
 - [LIS](https://github.com/wbap/lis)
 

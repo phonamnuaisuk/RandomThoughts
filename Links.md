@@ -22,6 +22,8 @@
 
 - [ModelZoo](https://modelzoo.co/), [TFModels](https://github.com/tensorflow/models)
 
+- [MuJoCo](http://www.mujoco.org/book/index.html)
+
 - [NEMO](https://github.com/NVIDIA/NeMo)
 
 - [PyTorchHub](https://pytorch.org/hub/research-models), [PyTorchGANzoo](https://github.com/facebookresearch/pytorch_GAN_zoo)

@@ -2,6 +2,8 @@
 
 - [AIMA](https://github.com/aimacode/aima-python)
 
+- [Autonomous1](https://github.com/lexfridman/mit-deep-learning)
+
 - [BERT]()
 
 - [Detectron2](https://github.com/facebookresearch/detectron2)

@@ -38,6 +38,8 @@
 
 - [StackGAN](https://github.com/hanzhanggit/StackGAN)
 
+- [TensorflowModels](https://github.com/tensorflow/models)
+
 - [VideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 
 - [WaveNet](https://github.com/ibab/tensorflow-wavenet)

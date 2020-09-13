@@ -38,7 +38,7 @@
 
 - [StackGAN](https://github.com/hanzhanggit/StackGAN)
 
-- [TensorflowModels](https://github.com/tensorflow/models)
+- [TensorflowModels](https://github.com/tensorflow/models), [TensorFlow2Tut](https://github.com/cxbxmxcx/TensorFlow_Certification)
 
 - [UnityList](https://unitylist.com/)
 
